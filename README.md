@@ -1,4 +1,4 @@
-# Minishell
+# Minishell 
 
 - Shell is the command interpreter in the linux platform. Linux shell commands provides us the platform to perform operation over the terminal. 
 
